@@ -1,5 +1,8 @@
-## Next.js App Router Course - Starter
+## Next.js App Router Course
+- App Routerに対応したチュートリアル（Next.js 13.4〜）
+- https://nextjs.org/learn
+- [Page Routerからどう変わったか](https://zenn.dev/yamadadayo123/articles/6cb4f586de0183)
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
-
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+## React Foundations
+- Reactの基礎
+- https://nextjs.org/learn/react-foundations
