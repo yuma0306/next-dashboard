@@ -5,4 +5,5 @@
 
 ## React Foundations
 - Reactの基礎
+- [テストページ](https://next-dashboard-murex-pi.vercel.app/react.html)
 - https://nextjs.org/learn/react-foundations
